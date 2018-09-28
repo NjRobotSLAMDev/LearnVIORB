@@ -1,3 +1,9 @@
+Install https://github.com/PetterS/SuiteSparse
+
+Build project.
+
+**
+
 Realtime branch. 
 
 Modification: 
